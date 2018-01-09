@@ -1,0 +1,31 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+          <ul class="social-media-list">
+
+              {% if site.linkedin_username %}
+		<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">linkedin.com/in/cgtian</a>
+              {% endif %}              
+
+              {% if site.github_username %}
+              <li>
+                  {% include icon-github.html username=site.github_username %}
+              </li>
+              {% endif %}
+              
+              {% if site.twitter_username %}
+              <li>
+                  {% include icon-twitter.html username=site.twitter_username %}
+              </li>
+              {% endif %}
+          </ul>
+        &copy; {{ 'now' | date: "%Y" }} Chris Tian
+      </div>
+
+  </div>
+
+</footer>
+
