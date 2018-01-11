@@ -11,37 +11,36 @@ Timbuktu
 Her  
 City of God  
 Knight of Cups  
-Me and You and Everyone We Know  
 Les Miserables  
-Your Name  
-Spring Breakers  
-Band Slam  
-Arrival  
 A Ghost Story  
+Me and You and Everyone We Know  
+Your Name  
+Arrival  
 Paterson  
 Maudie  
-First They Killed My Father  
+Spring Breakers  
 The Thin Red Line  
 Voyage of Time: Life's Journey  
+First They Killed My Father  
+Bandslam  
 The Empty Hours  
-Inception  
 The Dark Knight  
+Inception  
 Moonrise Kingdom  
 The Great Gatsby  
-Song to Song  
 Up  
 Coco  
+Song to Song  
 Toy Story 3  
-Wall-E  
 20th Century Women  
 Madeo  
 Youth  
 The Salt of the Earth  
+Wall-E  
 The Curious Case of Benjamin Button  
 V for Vendetta  
 The Shawshank Redemption  
 Good Will Hunting  
-La La Land  
 Columbus  
 
 Books
