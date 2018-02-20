@@ -32,6 +32,7 @@ Up
 Coco  
 Song to Song  
 Toy Story 3  
+The Florida Project  
 20th Century Women  
 Madeo  
 Youth  
