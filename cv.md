@@ -7,7 +7,7 @@ Experience
 ==
 **Rakuten,** San Mateo, CA  
 *Product Manager,* July 2016-Present  
-Led a team of five engineers and one designer in the Rakuten Intelligence group (formerly known as Slice Technologies). Drove various projects from concept to launch, including the following:
+Led a team of five engineers and one designer in the Rakuten Intelligence group (building B2B data products). Drove various projects from concept to launch, including the following:
 - the delivery system for Rakuten Intelligence's data feed product line (45% YoY revenue growth)
 - a web application that tracked e-commerce sales across over 100 syndicated data categories (six figures of revenue and cost savings in its first year)
 - a data enrichment process that gathered UPCs from various third-party APIs (25% time saved on training data generation and rules-based classification)  
