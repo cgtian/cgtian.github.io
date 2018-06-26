@@ -114,17 +114,17 @@ Red Hot Chili Peppers
 
 TV Shows
 ==
-The Newsroom  
 Rectify  
+Westworld  
 The Wire  
+The Newsroom  
 Person of Interest  
 Firefly  
 Parks and Recreation  
 Community  
 True Detective  
-Game of Thrones  
-Westworld  
 Glee  
+Game of Thrones  
 Arrested Development  
 Silicon Valley  
 Rick and Morty  
