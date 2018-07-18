@@ -43,6 +43,7 @@ V for Vendetta
 The Shawshank Redemption  
 Good Will Hunting  
 Columbus  
+Mad Max: Fury Road  
 
 Books
 ==
@@ -76,7 +77,7 @@ The Unknown Masterpiece
 Gambara  
 A Clockwork Orange  
 The Sound and the Fury  
-The House of the Dead
+The House of the Dead  
 
 Artists
 ==
@@ -110,7 +111,7 @@ Macklemore
 Lana Del Rey  
 Nas  
 Immortal Technique  
-Red Hot Chili Peppers
+Red Hot Chili Peppers  
 
 TV Shows
 ==
@@ -124,6 +125,7 @@ Parks and Recreation
 Community  
 True Detective  
 Glee  
+The Handmaid's Tale  
 Game of Thrones  
 Arrested Development  
 Silicon Valley  
