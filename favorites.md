@@ -92,6 +92,8 @@ Francisco de Goya
 Edgar Degas  
 Claude Monet  
 Vincent van Gogh  
+Raimonds Staprans  
+Andrea Stella  
 
 Music
 ==
