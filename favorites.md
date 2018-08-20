@@ -15,24 +15,24 @@ Les Miserables
 A Ghost Story  
 Me and You and Everyone We Know  
 Your Name  
-Arrival  
-Paterson  
-Maudie  
-Spring Breakers  
-The Thin Red Line  
 Voyage of Time: Life's Journey  
+The Thin Red Line  
+Spring Breakers  
+Paterson  
+Arrival  
+Maudie  
 First They Killed My Father  
 Bandslam  
 The Empty Hours  
 The Dark Knight  
 Inception  
 Moonrise Kingdom  
+The Florida Project  
 The Great Gatsby  
 Up  
 Coco  
 Song to Song  
 Toy Story 3  
-The Florida Project  
 20th Century Women  
 Madeo  
 Youth  
@@ -110,7 +110,6 @@ Phonte
 Blueprint  
 Grieves  
 Macklemore  
-Lana Del Rey  
 Nas  
 Immortal Technique  
 Red Hot Chili Peppers  
