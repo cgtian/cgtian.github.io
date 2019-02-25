@@ -5,9 +5,13 @@ permalink: /cv/
 ---
 Experience
 ==
+**Square,** San Francisco, CA   
+*Product Manager,* October 2018-Present   
+Caviar - Couriers, Logistics, and Operations   
+   
 **Rakuten,** San Mateo, CA  
-*Product Manager,* July 2016-Present  
-Led development of Rakuten Intelligence's B2B data products for the financial services vertical and helped the product line achieve an annual revenue growth rate of 45%. Drove various projects from concept to launch, including a data feed delivery system, predictive dashboard, and suite of e-receipt data sets. Implemented Scrum processes where appropriate and acted as Scrum Master to improve team responsiveness to changing client needs.  
+*Product Manager,* July 2016-October 2018  
+Led development of Rakuten Intelligence's B2B data products for the financial services vertical and helped the product line achieve an annual revenue growth rate of 45%. Drove various projects from concept to launch, including a data feed delivery system, predictive dashboard, and suite of e-receipt data sets.  
   
 *Data Analyst,* July 2015-June 2016  
 Created Rakuten Intelligence’s Loyalty Insights, Trial/Repeat, and Selected Snapshots products. Wrote and maintained the group’s Analyst SQL Framework, which standardized core analytical workflows and outlined best practices for SQL development (this framework was used daily by 10+ analysts). Hosted training sessions on subjects such as query automation, window functions, and full-text searching. Partnered with Sales and Marketing to deliver custom reports to major clients and media outlets.  
