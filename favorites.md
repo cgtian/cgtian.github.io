@@ -19,6 +19,7 @@ Voyage of Time: Life's Journey
 The Thin Red Line  
 Spring Breakers  
 Paterson  
+Mad Max: Fury Road   
 Arrival  
 Maudie  
 First They Killed My Father  
@@ -26,6 +27,7 @@ Bandslam
 The Empty Hours  
 The Dark Knight  
 Inception  
+Cold War   
 Moonrise Kingdom  
 The Florida Project  
 The Great Gatsby  
@@ -33,17 +35,16 @@ Up
 Coco  
 Song to Song  
 Toy Story 3  
+The Salt of the Earth   
+Madeo   
 20th Century Women  
-Madeo  
 Youth  
-The Salt of the Earth  
 Wall-E  
 The Curious Case of Benjamin Button  
 V for Vendetta  
 The Shawshank Redemption  
 Good Will Hunting  
 Columbus  
-Mad Max: Fury Road  
 
 Books
 ==

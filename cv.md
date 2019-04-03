@@ -7,7 +7,7 @@ Experience
 ==
 **Square,** San Francisco, CA   
 *Product Manager,* October 2018-Present   
-Caviar - Couriers, Logistics, and Operations   
+Caviar - Couriers, Logistics, Operations, and Risk   
    
 **Rakuten,** San Mateo, CA  
 *Product Manager,* July 2016-October 2018  
