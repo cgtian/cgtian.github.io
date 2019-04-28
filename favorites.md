@@ -30,6 +30,7 @@ Inception
 Cold War   
 Moonrise Kingdom  
 The Florida Project  
+Columbus  
 The Great Gatsby  
 Up  
 Coco  
@@ -39,12 +40,13 @@ The Salt of the Earth
 Madeo   
 20th Century Women  
 Youth  
+  
+--Lapsed--  
 Wall-E  
 The Curious Case of Benjamin Button  
 V for Vendetta  
 The Shawshank Redemption  
 Good Will Hunting  
-Columbus  
 
 Books
 ==
@@ -109,6 +111,8 @@ Vince Staples
 Clams Casino  
 Phonte  
 Blueprint  
+  
+--Lapsed--
 Grieves  
 Macklemore  
 Nas  
@@ -131,6 +135,7 @@ The Handmaid's Tale
 Game of Thrones  
 Arrested Development  
 Silicon Valley  
+Billions  
 Rick and Morty  
 House  
 Daredevil  
