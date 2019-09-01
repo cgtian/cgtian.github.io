@@ -22,6 +22,7 @@ Paterson
 Mad Max: Fury Road   
 Arrival  
 Maudie  
+The Farewell  
 First They Killed My Father  
 Bandslam  
 The Empty Hours  
