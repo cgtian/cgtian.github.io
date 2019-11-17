@@ -65,7 +65,9 @@ The Stranger
 The Fall  
 Lolita  
 As I Lay Dying  
+Beloved  
 Song of Solomon  
+Invisible Cities  
 A Moveable Feast  
 The Plague  
 Mrs. Dalloway  
@@ -93,6 +95,8 @@ Pablo Picasso
 Paul Cezanne  
 Gao Xingjian  
 Gustave Moreau  
+Diego Rivera  
+Frida Kahlo  
 Francisco de Goya  
 Edgar Degas  
 Claude Monet  
