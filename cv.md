@@ -5,9 +5,19 @@ permalink: /cv/
 ---
 Experience
 ==
+**DoorDash,** San Francisco, CA  
+*Senior Product Manager,* November 2019-Present  
+Caviar was acquired by DoorDash.  
+  
 **Square,** San Francisco, CA   
-*Product Manager,* October 2018-Present   
+*Senior Product Manager,* October 2018-October 2019  
 Caviar - Couriers, Logistics, Operations, and Risk   
+- Increased courier engaged hours by 6%  
+- Reduced average order duration by 5%  
+- Eliminated $1.2M of annualized fraud exposure  
+  
+Caviar - Traffic (temporary team / special projects)  
+- Increased diner traffic from restaurant properties by 15%
    
 **Rakuten,** San Mateo, CA  
 *Product Manager,* July 2016-October 2018  
@@ -37,6 +47,3 @@ Minor in Mathematics
   
 Sample Coursework  
 Analytical Statistics, Introduction to Econometrics, Analysis I, Algebra I, Linear Algebra, and Calculus III  
-  
-**Recently Read**  
-The Humane Interface, The Mythical Man-Month, Peopleware, and Learning from Data
