@@ -33,6 +33,7 @@ Cold War
 Moonrise Kingdom  
 The Florida Project  
 Columbus  
+Ford v Ferrari  
 The Great Gatsby  
 Up  
 Coco  
