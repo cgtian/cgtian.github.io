@@ -139,12 +139,13 @@ Community
 True Detective  
 Glee  
 The Handmaid's Tale  
-Game of Thrones  
-Arrested Development  
+The Marvelous Mrs. Maisel  
+The Good Place  
 Silicon Valley  
 Billions  
+Game of Thrones  
+Arrested Development  
 Rick and Morty  
 House  
 Daredevil  
-The Good Place  
 Younger  
