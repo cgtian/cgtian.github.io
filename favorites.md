@@ -20,10 +20,11 @@ The Thin Red Line
 Spring Breakers  
 Paterson  
 Mad Max: Fury Road   
+Kaili Blues  
+A Bread Factory  
 Arrival  
 Maudie  
 The Farewell  
-Kaili Blues  
 First They Killed My Father  
 Bandslam  
 The Empty Hours  
