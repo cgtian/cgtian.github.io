@@ -26,11 +26,11 @@ A Bread Factory
 Cold War  
 Arrival  
 The Farewell  
-Maudie  
-First They Killed My Father  
+Columbus  
 Bandslam  
 The Empty Hours  
-Columbus  
+Maudie  
+First They Killed My Father  
 The Dark Knight  
 Inception   
 Moonrise Kingdom  
