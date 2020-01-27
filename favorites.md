@@ -23,9 +23,9 @@ Mad Max: Fury Road
 Parasite   
 Kaili Blues  
 A Bread Factory  
+Cold War  
 Arrival  
 The Farewell  
-Cold War  
 Maudie  
 First They Killed My Father  
 Bandslam  
