@@ -19,7 +19,8 @@ Voyage of Time: Life's Journey
 The Thin Red Line  
 Spring Breakers  
 Paterson  
-Mad Max: Fury Road   
+Mad Max: Fury Road  
+Parasite   
 Kaili Blues  
 A Bread Factory  
 Arrival  
