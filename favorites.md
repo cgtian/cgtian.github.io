@@ -24,17 +24,17 @@ Parasite
 Kaili Blues  
 A Bread Factory  
 Arrival  
-Maudie  
 The Farewell  
+Cold War  
+Maudie  
 First They Killed My Father  
 Bandslam  
 The Empty Hours  
+Columbus  
 The Dark Knight  
-Inception  
-Cold War   
+Inception   
 Moonrise Kingdom  
 The Florida Project  
-Columbus  
 Ford v Ferrari  
 The Great Gatsby  
 Up  
