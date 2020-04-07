@@ -35,6 +35,7 @@ The Dark Knight
 Inception   
 Moonrise Kingdom  
 The Florida Project  
+The Big Short  
 Ford v Ferrari  
 The Great Gatsby  
 Up  

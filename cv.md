@@ -11,17 +11,18 @@ Caviar was acquired by DoorDash.
   
 **Square,** San Francisco, CA   
 *Senior Product Manager,* October 2018-October 2019  
-Caviar - Couriers, Logistics, Operations, and Risk   
-- Increased courier engaged hours by 6%  
-- Reduced average order duration by 5%  
-- Eliminated $1.2M of annualized fraud exposure  
+Caviar - Couriers, Logistics, and Risk   
+Led development of Caviar's courier apps, logistics system, and fraud detection service. Increased courier engaged hours by 6%, reduced average order duration by 6%, and eliminated $1.2M of annualized fraud exposure.  
   
-Caviar - Traffic (temporary team / special projects)  
-- Increased diner traffic from restaurant properties by 15%
+Caviar - Traffic (temporary team)  
+Spun up a design, engineering, marketing, and product team from scratch in response to a precipitous drop in new diner counts at the beginning of 2019. Defined the team's mandate, conducted user research, prioritized projects, and served as cross-functional leader en route to increasing diner traffic from restaurant properties by 15% in one quarter.  
    
+Caviar - California Consumer Privacy Act (special project)  
+Oversaw the multi-team CCPA compliance project. Mentored and worked with a junior product manager to understand the legal landscape, determine the project's scope, write specifications, and manage three engineering workstreams through launch.  
+  
 **Rakuten,** San Mateo, CA  
 *Product Manager,* July 2016-October 2018  
-Led development of Rakuten Intelligence's B2B data products for the financial services vertical and helped the product line achieve an annual revenue growth rate of 45%. Drove various projects from concept to launch, including a data feed delivery system, predictive dashboard, and suite of e-receipt data sets.  
+Headed Rakuten Intelligence’s B2B data products team for the financial services vertical. Grew revenue by 45% year-over-year. Drove various projects from concept to launch, including a data feed delivery system, predictive dashboard, and suite of e-receipt data sets.  
   
 *Data Analyst,* July 2015-June 2016  
 Created Rakuten Intelligence’s Loyalty Insights, Trial/Repeat, and Selected Snapshots products. Wrote and maintained the group’s Analyst SQL Framework, which standardized core analytical workflows and outlined best practices for SQL development (this framework was used daily by 10+ analysts). Hosted training sessions on subjects such as query automation, window functions, and full-text searching. Partnered with Sales and Marketing to deliver custom reports to major clients and media outlets.  
@@ -36,8 +37,10 @@ Conducted data sharing initiatives to highlight underserved student groups for o
   
 Skillset
 ==
-SQL (e.g. Redshift, Postgres, SQL Server, and MySQL), Tableau, Periscope, Stata, and Excel  
-  
+**Data:** SQL (e.g. Snowflake, Redshift, Postgres, SQL Server, and MySQL), Tableau, Periscope, and Excel  
+**Wireframing:** Figma and Balsamiq  
+**Task Management:** JIRA, Phabricator, Clubhouse, and Trello  
+**Cloud Services:** Amazon Web Services (e.g. S3 and IAM)  
   
 Education
 ==
