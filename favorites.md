@@ -17,10 +17,11 @@ Me and You and Everyone We Know
 Your Name  
 Voyage of Time: Life's Journey  
 The Thin Red Line  
+Tigertail  
+Parasite  
 Spring Breakers  
 Paterson  
-Mad Max: Fury Road  
-Parasite   
+Mad Max: Fury Road   
 Kaili Blues  
 A Bread Factory  
 Cold War  
