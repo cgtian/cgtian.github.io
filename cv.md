@@ -5,8 +5,11 @@ permalink: /cv/
 ---
 Experience
 ==
+**Lyft,** San Francisco, CA  
+*Product Manager,* August 2020-Present  
+    
 **DoorDash,** San Francisco, CA  
-*Senior Product Manager,* November 2019-Present  
+*Senior Product Manager,* November 2019-July 2020  
 Caviar was acquired by DoorDash.  
   
 **Square,** San Francisco, CA   
