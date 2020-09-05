@@ -140,13 +140,13 @@ The Wire
 The Newsroom  
 Person of Interest  
 Firefly  
+The Good Place  
 Parks and Recreation  
 Community  
 True Detective  
 Glee  
 The Handmaid's Tale  
 The Marvelous Mrs. Maisel  
-The Good Place  
 Silicon Valley  
 Billions  
 Game of Thrones  
