@@ -149,6 +149,7 @@ The Handmaid's Tale
 The Marvelous Mrs. Maisel  
 Silicon Valley  
 Billions  
+Ozark  
 Game of Thrones  
 Arrested Development  
 Rick and Morty  
