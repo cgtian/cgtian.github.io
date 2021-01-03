@@ -149,6 +149,7 @@ Glee
 The Handmaid's Tale  
 The Marvelous Mrs. Maisel  
 Silicon Valley  
+Vikings  
 Billions  
 Ozark  
 Game of Thrones  
