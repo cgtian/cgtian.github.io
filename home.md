@@ -11,7 +11,7 @@ The porch feels warm beneath my feet. Its wooden planks form a
 small bridge to the grass beyond. An untamed field stretches  
 towards the horizon.  
 <br/><br/>
->  
+/  
 <br/><br/>
 She's sitting quietly on the stool  
 with her hands clasped together  
@@ -49,7 +49,7 @@ disappears.
 My mind wanders the expanse, searching for proof of what had  
 come before. But silence is all that remains.  
 <br/><br/>
--  
+/  
 <br/><br/>
 I wake up in the field  
 trying to blink away  
