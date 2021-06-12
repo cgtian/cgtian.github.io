@@ -1,5 +1,4 @@
 ---
-title: Writing
 permalink: /writing/
 ---
 Selected Works
