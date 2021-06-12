@@ -1,4 +1,5 @@
 ---
+exclude: true
 permalink: /writing/
 ---
 Selected Works
