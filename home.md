@@ -10,8 +10,8 @@ easily. And I am outside.
 The porch feels warm beneath my feet. Its wooden planks form a  
 small bridge to the grass beyond. An untamed field stretches  
 towards the horizon.  
-<br/><br/>
-_  
+<br/><br/><br/>
+<hr style="width:40%">
 <br/><br/><br/>
 She's sitting quietly on the stool  
 with her hands clasped together  
@@ -23,8 +23,8 @@ turquoise, baby blue, and fire.
 She looks off to the side  
 observing the changing light  
 with cobalt eyes that pierce before healing.  
-<br/><br/>
-_  
+<br/><br/><br/>
+<hr style="width:40%">
 <br/><br/><br/>
 I'm breathing.  
   
