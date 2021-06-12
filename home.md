@@ -2,7 +2,7 @@
 permalink: /writing/home/
 ---
 **Home**  
-<br/><br/><br/><br/><br/>
+<br/><br/>
 A white door is standing in the middle. As I walk towards it, I see  
 the walls around me brushed with pale light. The door opens  
 easily. And I am outside.  
