@@ -10,7 +10,9 @@ easily. And I am outside.
 The porch feels warm beneath my feet. Its wooden planks form a  
 small bridge to the grass beyond. An untamed field stretches  
 towards the horizon.  
-<br/><br/><br/><br/><br/>
+<br/><br/>
+<hr/>
+<br/><br/>
 She's sitting quietly on the stool  
 with her hands clasped together  
 waiting for something to happen.  
@@ -21,7 +23,9 @@ turquoise, baby blue, and fire.
 She looks off to the side  
 observing the changing light  
 with cobalt eyes that pierce before healing.  
-<br/><br/><br/><br/><br/>
+<br/><br/>
+<hr/>
+<br/><br/>
 I'm breathing.  
   
 Boundaries dissolve into air.  
@@ -44,7 +48,9 @@ disappears.
   
 My mind wanders the expanse, searching for proof of what had  
 come before. But silence is all that remains.  
-<br/><br/><br/><br/><br/>
+<br/><br/>
+<hr/>
+<br/><br/>
 I wake up in the field  
 trying to blink away  
 the sleep still in my eyes.  
@@ -73,5 +79,7 @@ And time
 to become again  
 a little heart beating  
 in my mother's womb.  
-<br/><br/><br/><br/><br/>
+<br/><br/>
+<hr/>
+<br/><br/>
 The waves are crashing far from the shore.  
