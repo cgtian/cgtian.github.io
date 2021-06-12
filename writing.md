@@ -2,8 +2,8 @@
 exclude: true
 permalink: /writing/
 ---
-Selected Works
-==
+**Selected Works**
+  
 [Home](home/), April 2019-Present  
    
 [Invocation](invocation/), October 2018-January 2019  
