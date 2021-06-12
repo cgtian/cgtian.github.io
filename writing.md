@@ -14,4 +14,4 @@ permalink: /writing/
   
 [Landscape Studies](landscapestudies/), est. 2012-Present  
 <br/><br/>
-*Note: read via desktop for a better experience.*  
+*Note: read on desktop for a better experience.*  
