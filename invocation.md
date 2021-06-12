@@ -1,10 +1,9 @@
 ---
 permalink: /writing/invocation/
 ---
-
+  
 Night falls.  
-  
-  
+<br/><br/>
 I’m sitting inside a circle  
 drawn in red earth  
 by the fire burning at its center.  
