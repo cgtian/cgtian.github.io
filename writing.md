@@ -13,5 +13,5 @@ permalink: /writing/
 [Home #3](home3/), est. 2016-2018  
   
 [Landscape Studies](landscapestudies/), est. 2012-Present  
-  
-Note: read via desktop for a better experience.  
+<br/><br/>
+*Note: read via desktop for a better experience.*  
