@@ -5,7 +5,6 @@ permalink: /favorites/
 ---
 Movies
 ==
-Boyhood  
 Inside Llewyn Davis  
 Timbuktu  
 Her  
@@ -14,11 +13,12 @@ Knight of Cups
 Les Miserables  
 A Ghost Story  
 Babyteeth  
-Tigertail  
 Parasite  
+Voyage of Time: Life's Journey  
+Tigertail  
 Me and You and Everyone We Know  
 Your Name  
-Voyage of Time: Life's Journey  
+Boyhood  
 The Thin Red Line  
 Spring Breakers  
 Paterson  
@@ -97,8 +97,8 @@ The House of the Dead
 Artists
 ==
 Henri Matisse  
-Henri Rousseau  
 Willem de Kooning  
+Henri Rousseau  
 Pablo Picasso  
 Paul Cezanne  
 Gao Xingjian  
@@ -120,13 +120,13 @@ Shad
 The Roots  
 Julianna Barwick  
 Grouper  
-Big K.R.I.T.  
-Vince Staples  
 Clams Casino  
 Phonte  
-Blueprint  
+Big K.R.I.T.  
+Vince Staples  
   
 **Archived**  
+Blueprint  
 Grieves  
 Macklemore  
 Nas  
@@ -140,15 +140,16 @@ Westworld
 The Wire  
 The Newsroom  
 Person of Interest  
-Firefly  
 The Good Place  
 Parks and Recreation  
 Community  
 True Detective  
+Arcane  
+Silicon Valley  
 Glee  
 The Handmaid's Tale  
 The Marvelous Mrs. Maisel  
-Silicon Valley  
+Firefly  
 Vikings  
 Billions  
 Ozark  
