@@ -147,6 +147,7 @@ Community
 True Detective  
 Arcane  
 Silicon Valley  
+Severance  
 Glee  
 The Handmaid's Tale  
 The Marvelous Mrs. Maisel  
