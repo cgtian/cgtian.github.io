@@ -56,7 +56,7 @@ Their sound
   
 it feels like breathing.  
 <br/><br/>
-The ocean is a giant in repose.
+The ocean is a giant in repose.  
 <br/><br/><br/>
 3\.  
 <br/>
