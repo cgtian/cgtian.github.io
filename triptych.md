@@ -4,7 +4,7 @@ permalink: /writing/triptych/
 ---
 **Untitled Triptych (Draft)**  
 <br/><br/>
-1.  
+1\.  
 I wake up in the field  
 trying to blink away  
 the sleep still in my eyes.  
@@ -36,7 +36,7 @@ in my mother's womb.
 <br/><br/><br/>
 <hr style="width:2%">
 <br/><br/><br/>
-2.  
+2\.  
 Before I was born, I dreamed of an ocean  
   
 with water the color of jade  
@@ -60,7 +60,7 @@ The ocean is a giant in repose.
 <br/><br/><br/>
 <hr style="width:2%">
 <br/><br/><br/>
-3.  
+3\.  
 It’s quiet  
 beneath the surface.  
   
