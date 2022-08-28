@@ -48,34 +48,3 @@ disappears.
   
 My mind wanders the expanse, searching for proof of what had  
 come before. But silence is all that remains.  
-<br/><br/><br/>
-<hr style="width:2%">
-<br/><br/><br/>
-I wake up in the field  
-trying to blink away  
-the sleep still in my eyes.  
-  
-The morning is bright  
-my eyelids are heavy  
-the world can wait  
-a while longer.  
-  
-I curl back into a ball  
-atop my bed of grass  
-as time bends slowly backwards.  
-  
-The light  
-as I shrink  
-is golden.  
-  
-It envelops me  
-and I feel warm.  
-  
-There's peace  
-to be found  
-in the silence.  
-  
-And time  
-to become again  
-a little heart beating  
-in my mother's womb.  
