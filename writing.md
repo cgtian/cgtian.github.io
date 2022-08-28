@@ -4,7 +4,9 @@ permalink: /writing/
 ---
 **Selected Works**
   
-[Home](home/), April 2019-Present  
+[Untitled Triptych (Draft)](triptych/), June 2020-Present
+  
+[Home](home/), April 2019-January 2020  
    
 [Invocation](invocation/), October 2018-January 2019  
   
