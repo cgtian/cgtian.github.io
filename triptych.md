@@ -61,12 +61,11 @@ The ocean is a giant in repose.
 <br/><br/><br/>
 <hr style="width:2%">
 <br/><br/><br/>
-<pre>
 It’s quiet  
 beneath the surface.  
   
 I’ve been floating here  
-for	       I don’t know how long.  
+for&nbsp; &nbsp; &nbsp; &nbsp; I don’t know how long.  
   
 While peering into  
 these interminable, jade-colored depths.  
@@ -79,7 +78,7 @@ with a dull shimmer
 formed between the creases of passing waves.  
   
 As they march on endlessly  
-and wash away        each in its turn  
+and wash away&nbsp; &nbsp; &nbsp; &nbsp; each in its turn  
 I, me, and myself.  
   
 In the clarity that remains  
@@ -99,9 +98,9 @@ I need air.
   
 But panic is swirling around me.  
 
-An obscured image        the world above.  
+An obscured image&nbsp; &nbsp; &nbsp; &nbsp; the world above.  
   
-I think I’m        passing out.  
+I think I’m&nbsp; &nbsp; &nbsp; &nbsp; passing out.  
   
   
 For a moment, it’s all silence.  
@@ -111,4 +110,3 @@ and the waves are roaring.
   
 In the sky  
 I see the remnants of a dream.  
-</pre>
