@@ -102,7 +102,7 @@ But panic is swirling around me.
 
 An obscured image&nbsp; &nbsp; &nbsp; &nbsp; the world above  
   
-vision fading&nbsp; &nbsp; &nbsp; &nbsp; blacking out.  
+vision failing&nbsp; &nbsp; &nbsp; &nbsp; blacking out.  
 
 <br/>
 For a moment, it’s all silence.  
