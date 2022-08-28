@@ -35,8 +35,6 @@ to become again
 a little heart beating  
 in my mother's womb.  
 <br/><br/><br/>
-<hr style="width:2%">
-<br/><br/><br/>
 2\.  
 <br/>
 Before I was born, I dreamed of an ocean  
@@ -59,8 +57,6 @@ Their sound
 it feels like breathing.  
 <br/><br/>
 The ocean is a giant in repose.
-<br/><br/><br/>
-<hr style="width:2%">
 <br/><br/><br/>
 3\.  
 <br/>
