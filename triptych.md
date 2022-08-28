@@ -100,9 +100,9 @@ I need air.
   
 But panic is swirling around me.  
 
-An obscured image&nbsp; &nbsp; &nbsp; &nbsp; the world above.  
+An obscured image&nbsp; &nbsp; &nbsp; &nbsp; the world above  
   
-I think I’m&nbsp; &nbsp; &nbsp; &nbsp; passing out.  
+vision failing&nbsp; &nbsp; &nbsp; &nbsp; blacking out.  
 
 <br/>
 For a moment, it’s all silence.  
