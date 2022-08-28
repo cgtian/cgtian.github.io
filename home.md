@@ -31,7 +31,8 @@ I'm breathing.
 Boundaries dissolve into air.  
   
 The night is a blue void.  
-<br/><br/>
+
+<br/>
 A white fissure rips down through the sky. Racing the roar of the  
 thunderclap. As both plummet towards the earth. And strike with  
 blistering force against the ground.  
@@ -41,7 +42,8 @@ imprints in the dark. That linger, for a moment, before fading. Just
 as the thunder breaks again.  
   
 The storm continues for hours.  
-<br/><br/>
+
+<br/>
 I see a blue field in the aftermath. A vague memory is floating  
 above it like a ghost. Suddenly, the night flickers. And the ghost  
 disappears.  
