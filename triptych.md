@@ -99,10 +99,10 @@ The mind’s forced back into the body.
 I need air.  
   
 But panic is swirling around me.  
-
-An obscured image&nbsp; &nbsp; &nbsp; &nbsp; the world above  
   
-vision failing&nbsp; &nbsp; &nbsp; &nbsp; blacking out.  
+I’m still reaching for the other side.  
+  
+Even as I feel my heartbeat fading.  
 
 <br/>
 For a moment, it’s all silence.  
