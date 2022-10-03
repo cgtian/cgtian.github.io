@@ -2,7 +2,7 @@
 exclude: true
 permalink: /writing/triptych/
 ---
-**Untitled Triptych (Draft)**  
+**Untitled Triptych**  
 <br/><br/>
 1\.  
 <br/>
