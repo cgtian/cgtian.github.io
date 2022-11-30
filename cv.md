@@ -38,14 +38,6 @@ Designed metrics and reports to inform academic policy development.
 *Data Analysis Intern,* May 2013-October 2013  
 Conducted data sharing initiatives to highlight underserved student groups for outreach and assistance.  
   
-  
-Education & Skills
-==
-**Data:** SQL (e.g. Snowflake, Redshift, Postgres, SQL Server, and MySQL), Tableau, Periscope, and Excel  
-**Wireframing:** Figma and Balsamiq  
-**Task Management:** JIRA, Phabricator, Clubhouse, and Trello  
-**Cloud Services:** Amazon Web Services (e.g. S3 and IAM)  
-  
 Education & Skills
 ==
 **New York University Stern School of Business,** New York, NY  
