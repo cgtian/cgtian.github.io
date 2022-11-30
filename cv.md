@@ -7,7 +7,7 @@ Experience
 ==
 **Lyft,** San Francisco, CA  
 *Senior Product Manager,* August 2020-November 2022  
-Led strategy and execution for Lyft’s home screen and trip planning product areas. Oversaw the home screen’s transition to a server-driven architecture, platformization, and subsequent feature development in service of our vision to personalize riders’ pre-checkout experiences based on their expected use cases and context. Increased revenue by $22M/year and ride volume by 1.3M/year.  
+Led strategy and execution for Lyft’s home screen and trip planning product areas. Oversaw the home screen’s transition to a server-driven architecture, platformization, and subsequent feature development in service of a vision to personalize riders’ pre-checkout experiences based on their expected use cases and context. Increased revenue by $22M/year and ride volume by 1.3M/year.  
   
 **DoorDash,** San Francisco, CA  
 *Senior Product Manager,* November 2019-July 2020  
