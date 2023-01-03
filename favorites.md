@@ -24,7 +24,8 @@ The Thin Red Line
 On the Count of Three  
 Spring Breakers  
 Paterson  
-Mad Max: Fury Road   
+Mad Max: Fury Road  
+Avatar: The Way of Water  
 Kaili Blues  
 A Bread Factory  
 Cold War  
