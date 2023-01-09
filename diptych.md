@@ -1,41 +1,10 @@
 ---
 exclude: true
-permalink: /writing/triptych/
+permalink: /writing/diptych/
 ---
-**Untitled Triptych**  
+**Untitled Diptych**  
 <br/><br/>
 1\.  
-<br/>
-I wake up in a field  
-trying to blink away  
-the sleep still in my eyes.  
-  
-The morning is bright  
-my eyelids are heavy  
-the world can wait  
-a while longer.  
-  
-I curl back into a ball  
-atop my bed of grass  
-as time bends slowly backwards.  
-  
-The light  
-as I shrink  
-is golden.  
-  
-It envelops me  
-and I feel warm.  
-  
-There's peace  
-to be found  
-in the silence.  
-  
-And time  
-to become again  
-a little heart beating  
-in my mother's womb.  
-<br/><br/><br/>
-2\.  
 <br/>
 Before I was born, I dreamed of an ocean  
   
@@ -61,7 +30,7 @@ it feels like breathing.
 <br/>
 The ocean is a giant in repose.  
 <br/><br/><br/>
-3\.  
+2\.  
 <br/>
 It’s quiet  
 beneath the surface.  
