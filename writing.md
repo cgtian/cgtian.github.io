@@ -15,5 +15,3 @@ permalink: /writing/
 [Home #3](home3/), est. 2016-2018  
   
 [Landscape Studies](landscapestudies/), est. 2012-Present  
-<br/><br/>
-Note: read on desktop to preserve line lengths and enjambment.  
