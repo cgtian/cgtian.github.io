@@ -125,8 +125,8 @@ Julianna Barwick
 Grouper  
 Clams Casino  
 Phonte  
-Big K.R.I.T.  
 Vince Staples  
+Big K.R.I.T.  
   
 **Archived**  
 Blueprint  
@@ -158,6 +158,7 @@ Vikings
 Billions  
 Ozark  
 The Expanse  
+Shrinking  
 Game of Thrones  
 Arrested Development  
 Rick and Morty  
