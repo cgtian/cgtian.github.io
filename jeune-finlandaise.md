@@ -1,7 +1,7 @@
 ---
-permalink: /writing/jeune-finlandaise-1907/
+permalink: /writing/jeune-finlandaise/
 ---
-**Jeune Finlandaise (1907)**  
+**Jeune Finlandaise**  
 <br/><br/>
 She's sitting quietly on the stool  
 with her hands clasped together  

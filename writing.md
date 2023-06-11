@@ -8,7 +8,7 @@ permalink: /writing/
   
 [Untitled #5](untitled-5/), August 2019-January 2020  
   
-[Jeune Finlandaise (1907)](jeune-finlandaise-1907/), July 2019  
+[Jeune Finlandaise](jeune-finlandaise/), July 2019  
   
 [Home #5](home-5/), April 2019-May 2019  
    
