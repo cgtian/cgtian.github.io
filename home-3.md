@@ -1,5 +1,5 @@
 ---
-permalink: /writing/home3/
+permalink: /writing/home-3/
 ---
 **Home #3**  
 <br/><br/>

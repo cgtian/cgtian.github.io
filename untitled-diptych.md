@@ -1,6 +1,6 @@
 ---
 exclude: true
-permalink: /writing/diptych/
+permalink: /writing/untitled-diptych/
 ---
 **Untitled Diptych**  
 <br/><br/>

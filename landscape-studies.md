@@ -1,5 +1,5 @@
 ---
-permalink: /writing/landscapestudies/
+permalink: /writing/landscape-studies/
 ---
 **Landscape Studies**  
 <br/><br/>
