@@ -8,12 +8,12 @@ permalink: /writing/untitled-diptych/
 <br/>
 Before I was born, I dreamed of an ocean  
   
-of waters suffuse with jade  
-churning beneath a field of formless clouds.  
+where the water was suffuse with jade  
+and churning beneath a field of formless clouds.  
 
 <br/>
 A wave falls against the shore  
-and surges briefly over sand  
+then surges briefly over sand  
 before retreating  
 to be reclaimed by the undertow.  
   
