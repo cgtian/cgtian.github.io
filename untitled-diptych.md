@@ -8,7 +8,7 @@ permalink: /writing/untitled-diptych/
 <br/>
 Before I was born, I dreamed of an ocean  
   
-of these waters suffuse with jade  
+of waters suffuse with jade  
 churning beneath a field of formless clouds.  
 
 <br/>
