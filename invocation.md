@@ -26,7 +26,7 @@ but they don't respond.
 Still I think of all that they were.  
 
 <br/>
-Something invisible stirs atop the mountains.  
+Something invisible stirs atop the ridgeline.  
   
 It could be nothing  
 or a shadow descending.  
