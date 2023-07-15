@@ -37,8 +37,8 @@ I hope they're all together.
 In the distance, a zephyr glides across the earthen floor.  
 
 <br/>
-I can see the shadow now  
-shrouded in its own darkness  
+I can see the umbra now  
+lost in its own darkness  
 floating through the vast expanse between the mountains and here.  
 
 <br/>
