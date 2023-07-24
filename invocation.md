@@ -14,7 +14,7 @@ by the fire burning at its center.
 The wood crackles  
 sending a wave into the darkness  
 only to have it fizzle  
-             out in the barrens  
+                 out in the barrens  
 and never reach the mountains that lie beyond.  
   
 There are ghosts in those mountains.  
