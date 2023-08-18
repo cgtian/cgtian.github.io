@@ -118,23 +118,6 @@ Andrea Stella
 Music
 ==
 <https://open.spotify.com/user/cgtian/playlist/5TlWLfpKhUBGl0gCAFJXEE>  
-  
-Shad  
-The Roots  
-Julianna Barwick  
-Grouper  
-Clams Casino  
-Phonte  
-Vince Staples  
-Big K.R.I.T.  
-  
-**Archived**  
-Blueprint  
-Grieves  
-Macklemore  
-Nas  
-Immortal Technique  
-Red Hot Chili Peppers  
 
 TV Shows
 ==

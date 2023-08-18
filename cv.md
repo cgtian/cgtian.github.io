@@ -11,18 +11,12 @@ Led strategy and execution for Lyft’s home screen and trip planning product ar
   
 **DoorDash,** San Francisco, CA  
 *Senior Product Manager,* November 2019-July 2020  
-Caviar was acquired by DoorDash (see the Block section below for details about my work on Caviar).  
+Caviar was acquired by DoorDash.  
   
 **Block,** San Francisco, CA   
 *Senior Product Manager,* October 2018-October 2019  
 Caviar - Couriers, Logistics, and Risk   
 Headed development of Caviar's courier apps, logistics system, and fraud detection service. Increased courier engaged hours by 6%, reduced order duration by 6%, and eliminated $1.2M/year in fraud exposure.  
-  
-Caviar - Traffic (temporary team)  
-Spun up a cross-functional team in response to a precipitous drop in new diner counts at the beginning of 2019. Increased diner traffic from restaurant properties by 15%.  
-  
-Caviar - California Consumer Privacy Act (special project)  
-Spearheaded the multi-team CCPA compliance program. Mentored and worked with a junior product manager to understand the legal landscape, determine the program’s scope, write specifications, and manage three engineering workstreams through launch.  
   
 **Rakuten,** San Mateo, CA  
 *Product Manager,* July 2016-October 2018  
