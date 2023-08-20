@@ -13,7 +13,7 @@ by the fire burning at its center.
 <br/>
 The wood crackles  
 sending a wave into the darkness  
-only to have it wither in the barrens  
+only for it to wither in the barrens  
 and never reach the mountains that lie beyond.  
   
 There are ghosts in those mountains.  
