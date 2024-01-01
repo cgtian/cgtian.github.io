@@ -15,12 +15,12 @@ My ghost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;made its way
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to the moon.  
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where I&nbsp;&nbsp;&nbsp;&nbsp;existed  
-in two&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;places  
-<span style="opacity: 0.0;">in</span> two&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;times.  
+&nbsp;&nbsp;&nbsp;&nbsp;in two&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;places  
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="opacity: 0.0;">in</span> two&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;times.  
   
-But it wasn't quite&nbsp;&nbsp;the same moon  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;up there&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;were two moons  
-superimposed.  
+&nbsp;&nbsp;&nbsp;&nbsp;But it wasn't quite&nbsp;&nbsp;the same moon  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;up there&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;were two moons  
+&nbsp;&nbsp;&nbsp;&nbsp;superimposed.  
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The smaller one  
 was a ring&nbsp;&nbsp;through  
