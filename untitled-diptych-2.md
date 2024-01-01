@@ -28,3 +28,23 @@ was a ring&nbsp;&nbsp;through
 <span style="opacity: 0.0;">was a ring</span>&nbsp;&nbsp;through  
 <span style="opacity: 0.0;">was </span>a ring&nbsp;&nbsp;&nbsp;&nbsp;where I saw&nbsp;&nbsp;my future emerge.  
 <br/><br/>
+2\.  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I started out&nbsp;&nbsp;&nbsp;&nbsp;on a road  
+&nbsp;&nbsp;&nbsp;&nbsp;that had been&nbsp;&nbsp;&nbsp;&nbsp;carved&nbsp;&nbsp;into a hill  
+where the howling wind  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pierced&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my eardrums.  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And where I&nbsp;&nbsp;saw  
+&nbsp;&nbsp;&nbsp;&nbsp;a vision of&nbsp;&nbsp;&nbsp;&nbsp;a city  
+that had collapsed&nbsp;&nbsp;&nbsp;&nbsp;long ago.  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Its husk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;left behind&nbsp;&nbsp;with  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shattered&nbsp;&nbsp;concrete  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;floating&nbsp;&nbsp;&nbsp;&nbsp;in the air&nbsp;&nbsp;above  
+memories of civilization.  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;Memories that  
+would&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in the night  
+&nbsp;&nbsp;&nbsp;&nbsp;burn weakly&nbsp;&nbsp;like  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;white flames&nbsp;&nbsp;&nbsp;&nbsp;in the void.
