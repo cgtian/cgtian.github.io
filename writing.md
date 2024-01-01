@@ -4,9 +4,9 @@ permalink: /writing/
 ---
 **Selected Works**
   
-[Untitled Diptych 2](untitled-diptych-2/), September 2023-Novembmer 2023  
+[Untitled Diptych 2](untitled-diptych-2/), September 2023-November 2023  
   
-[Untitled Diptych](untitled-diptych/), June 2020-September 2022  
+[Untitled Diptych](untitled-diptych/), June 2021-September 2022  
   
 [Untitled #5](untitled-5/), August 2019-January 2020  
   
