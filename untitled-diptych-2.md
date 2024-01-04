@@ -2,7 +2,7 @@
 exclude: true
 permalink: /writing/untitled-diptych-2/
 ---
-**Untitled Diptych 2**<!--After Gao Xingjian and Shane McCrae-->  
+**Untitled Diptych #2**<!--After Gao Xingjian and Shane McCrae-->  
 <br/><br/>
 1\.  
   
