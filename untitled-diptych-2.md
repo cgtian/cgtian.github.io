@@ -26,7 +26,7 @@ My ghost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;made its way
 was a ring&nbsp;&nbsp;through  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;which&nbsp;&nbsp;&nbsp;&nbsp;a white light&nbsp;&nbsp;was shining  
 <span style="opacity: 0.0;">was a ring</span>&nbsp;&nbsp;through  
-<span style="opacity: 0.0;">was </span>a ring&nbsp;&nbsp;&nbsp;&nbsp;where I saw&nbsp;&nbsp;my future emerge.  
+<span style="opacity: 0.0;">was </span>a ring&nbsp;&nbsp;&nbsp;&nbsp;where I saw&nbsp;&nbsp;a future emerge.  
 <br/><br/>
 2\.  
   
