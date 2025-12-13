@@ -135,10 +135,12 @@ Arcane
 Silicon Valley  
 Severance  
 Glee  
+Sakamoto Days  
 The Handmaid's Tale  
 The Marvelous Mrs. Maisel  
 Firefly  
 Vikings  
+Foundation  
 Billions  
 Ozark  
 The Expanse  

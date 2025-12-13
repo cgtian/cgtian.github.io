@@ -8,7 +8,7 @@ permalink: /writing/untitled-diptych-2/
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I still  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;remember  
-when my future self&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;first  
+when the foretelling&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;first  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;splintered&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from me.  
   
 My ghost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;made its way  
