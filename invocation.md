@@ -13,7 +13,7 @@ by the fire burning at its center.
 <br/>
 The wood crackles  
 sending a wave into the darkness  
-only for it to wither in the barrens  
+only for it to wither in the flatlands  
 and never reach the mountains that lie beyond.  
   
 There are ghosts in those mountains.  
@@ -26,7 +26,7 @@ but they don't respond.
 Still I think of all that they were.  
 
 <br/>
-Something invisible stirs atop the highlands.  
+Something invisible stirs near the summit.  
   
 It could be nothing  
 or a shadow descending.  
